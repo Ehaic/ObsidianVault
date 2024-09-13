@@ -1,15 +1,17 @@
 Items
 
+| Item                        | Price      |
+| :-------------------------- | ---------- |
 | Lair Crystal                | 15,000,000 |
-| --------------------------- | ---------- |
 | Appearance Damage Bonus Bit | 250,000    |
 | Weapon Elemental Bonus Bit  | 200,000    |
 | Delicate Trigger Assembly   | 250,000    |
 
 BH Armor Pieces
 
-| Chestplate   | 900,000   |
+| Item         | Price     |
 | ------------ | --------- |
+| Chestplate   | 900,000   |
 | Leggings     | 480,000   |
 | Helmet       | 450,000   |
 | Bicep        | 110,000   |
