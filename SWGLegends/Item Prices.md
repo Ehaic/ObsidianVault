@@ -6,6 +6,7 @@ Items
 | Appearance Damage Bonus Bit | 250,000    |
 | Weapon Elemental Bonus Bit  | 200,000    |
 | Delicate Trigger Assembly   | 250,000    |
+| Illegal Core Booster        | 200,000    |
 
 BH Armor Pieces
 
