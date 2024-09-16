@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWGLegends/Item Prices.md",
+                "file": "SWGLegends/Themeparks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWGLegends/Item Prices.md",
+                "file": "SWGLegends/Themeparks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWGLegends/Item Prices.md",
+                "file": "SWGLegends/Themeparks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWGLegends/Item Prices.md"
+                "file": "SWGLegends/Themeparks.md"
               }
             }
           },
@@ -155,8 +155,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca38f339406eb190",
+  "active": "972274c21b471d11",
   "lastOpenFiles": [
+    "create a link.md",
+    "SWGLegends/Themeparks.md",
     "SWGLegends/Item Prices.md",
     "SWGLegends/Untitled.canvas",
     "SWGLegends/BH Stuff/Guides.md",
