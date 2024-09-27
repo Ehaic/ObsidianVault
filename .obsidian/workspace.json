@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWGLegends/Pre-Quests.md",
+                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWGLegends/Pre-Quests.md",
+                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWGLegends/Pre-Quests.md",
+                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWGLegends/Pre-Quests.md"
+                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md"
               }
             }
           },
@@ -157,15 +157,19 @@
   },
   "active": "972274c21b471d11",
   "lastOpenFiles": [
-    "SWGLegends/Themeparks.md",
+    "SWGAnimus/Resources/Resource Needs.md",
+    "SWGAnimus/Resources/Current Good Resource Spawns.md",
+    "SWGAnimus/Resources/Current Resource Stocks.md",
     "SWGLegends/Pre-Quests.md",
+    "SWGAnimus/Resources",
+    "Welcome.md",
+    "SWGAnimus",
+    "SWGLegends/Themeparks.md",
     "SWGLegends/Item Prices.md",
     "SWGLegends/BH Stuff/Guides.md",
     "create a link.md",
     "SWGLegends/Untitled.canvas",
     "SWGLegends/BH Stuff",
-    "Untitled",
-    "SWGLegends",
-    "Welcome.md"
+    "SWGLegends"
   ]
 }

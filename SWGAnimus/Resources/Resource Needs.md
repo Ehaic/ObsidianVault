@@ -1,0 +1,7 @@
+Plumbum Iron [HR/SR] 
+Ostrine Carbonate Ore [CR/OQ] 
+Phrik Aluminum [CR/OQ] 
+Polymer [CR/OQ] 
+Green Diamond Crystalline Gemstone [OQ] 
+Chromium Aluminum [OQ]
+Class 3 Solid Petro Fuel [UT]
