@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b3ab9e708ec57a9",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "972274c21b471d11",
+  "active": "7b3ab9e708ec57a9",
   "lastOpenFiles": [
-    "SWGAnimus/Resources/Resource Needs.md",
     "SWGAnimus/Resources/Current Good Resource Spawns.md",
+    "SWGAnimus/Resources/Resource Needs.md",
     "SWGAnimus/Resources/Current Resource Stocks.md",
     "SWGLegends/Pre-Quests.md",
     "SWGAnimus/Resources",
