@@ -23,10 +23,11 @@
             "id": "7b3ab9e708ec57a9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "SWGAnimus/Resources/Current Resource Stocks.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SWGAnimus/Resources/Current Resource Stocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SWGAnimus/Resources/Current Resource Stocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SWGAnimus/Resources/Current Resource Stocks.md"
+              }
             }
           },
           {
@@ -165,15 +170,15 @@
   },
   "active": "7b3ab9e708ec57a9",
   "lastOpenFiles": [
-    "SWGAnimus/Resources/Current Good Resource Spawns.md",
     "SWGAnimus/Resources/Resource Needs.md",
     "SWGAnimus/Resources/Current Resource Stocks.md",
+    "SWGAnimus/Resources/Current Good Resource Spawns.md",
+    "SWGLegends/Item Prices.md",
     "SWGLegends/Pre-Quests.md",
     "SWGAnimus/Resources",
     "Welcome.md",
     "SWGAnimus",
     "SWGLegends/Themeparks.md",
-    "SWGLegends/Item Prices.md",
     "SWGLegends/BH Stuff/Guides.md",
     "create a link.md",
     "SWGLegends/Untitled.canvas",
