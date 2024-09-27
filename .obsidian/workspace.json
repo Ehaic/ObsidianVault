@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWGAnimus/Resources/Current Resource Stocks.md",
+                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWGAnimus/Resources/Current Resource Stocks.md",
+                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWGAnimus/Resources/Current Resource Stocks.md",
+                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWGAnimus/Resources/Current Resource Stocks.md"
+                "file": "SWGAnimus/Resources/Current Good Resource Spawns.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   "active": "7b3ab9e708ec57a9",
   "lastOpenFiles": [
     "SWGAnimus/Resources/Resource Needs.md",
-    "SWGAnimus/Resources/Current Resource Stocks.md",
     "SWGAnimus/Resources/Current Good Resource Spawns.md",
+    "SWGAnimus/Resources/Current Resource Stocks.md",
     "SWGLegends/Item Prices.md",
     "SWGLegends/Pre-Quests.md",
     "SWGAnimus/Resources",
